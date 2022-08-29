@@ -1,10 +1,9 @@
-# Da-Hood
-none of those scripts are fully mine btw i may have customized them but yk like
+# Command List
 
 █▀▀ █▀█ █▀▄▀█ █▀▄▀█ ▄▀█ █▄░█ █▀▄ █▀ <br />
 █▄▄ █▄█ █░▀░█ █░▀░█ █▀█ █░▀█ █▄▀ ▄█
 
---//-------------------- [ Stand Actions ] --------------------\\--
+--/-------------------- [ Stand Actions ] --------------------\\--
 
 !summon / Star Platinum! = Summons the stand.  <br />
 !vanish / !unghost = Makes the stand invisible / visible. <br />
