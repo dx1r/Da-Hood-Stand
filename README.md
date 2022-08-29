@@ -6,7 +6,7 @@ none of those scripts are fully mine btw i may have customized them but yk like
 
 --//-------------------- [ Stand Actions ] --------------------\\--
 
-!summon / Star Platinum! = Summons the stand.
+!summon / Star Platinum! = Summons the stand.  <br />
 !vanish / !unghost = Makes the stand invisible / visible.
 !crew / !uncrew = Joins / Leaves the owners crew (Must be in the group!)
 !freeze / !unfreeze = Freezes / Unfreezes the stand.
