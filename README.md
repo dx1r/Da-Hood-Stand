@@ -20,7 +20,7 @@ none of those scripts are fully mine btw i may have customized them but yk like
 !right = Brings the stand to the right position. <br />
 !stop = Stops any loops. <br />
 
---//----------------------- [ Combat ] -----------------------\\--
+--/----------------------- [ Combat ] -----------------------\\--
 
 !save = Saves the owner when he is knocked. <br />
 Ora! = Ghost punches in front of the owner. <br />
@@ -32,7 +32,7 @@ Ora! = Ghost punches in front of the owner. <br />
 !killaura = Teleports under owner and spams light punches. <br />
 !multi = Circles around owner while spamming heavy punch. <br />
 
---//-------------------- [ Target Commands ] --------------------\\--
+--/-------------------- [ Target Commands ] --------------------\\--
 
 !kill [Username / Display Name] = Loop kills the desired person. <br />
 !knockout [Username / Display Name] = Loop knocks but doesn't kill the person. <br />
@@ -44,7 +44,7 @@ Ora! = Ghost punches in front of the owner. <br />
 !bring [Username / Display Name] = Brings the person to the owner. <br />
 !goto [Username / Display Name] = Brings the owner to the person. <br />
 
---//----------------------- [ Teleports ] -----------------------\\--
+--/----------------------- [ Teleports ] -----------------------\\--
 
 !tp bank = Telports to bank. <br />
 !tp casino = Teleports to casino. <br />
