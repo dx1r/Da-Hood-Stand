@@ -7,18 +7,18 @@ none of those scripts are fully mine btw i may have customized them but yk like
 --//-------------------- [ Stand Actions ] --------------------\\--
 
 !summon / Star Platinum! = Summons the stand.  <br />
-!vanish / !unghost = Makes the stand invisible / visible.
-!crew / !uncrew = Joins / Leaves the owners crew (Must be in the group!)
-!freeze / !unfreeze = Freezes / Unfreezes the stand.
-!reset = Resets / Respawns the stand.
-!rejoin = Makes the stand rejoin the same server.
-!leave = Makes the stand leave the game.
-!lowgfx = Enables Low-Graphic mode on the stand to save CPU.
-!drop = Starts dropping cash.
-!wallet = Equips the stand's wallet.
-!left = Brings the stand to the left position.
-!right = Brings the stand to the right position.
-!stop = Stops any loops.
+!vanish / !unghost = Makes the stand invisible / visible. <br />
+!crew / !uncrew = Joins / Leaves the owners crew (Must be in the group!) <br />
+!freeze / !unfreeze = Freezes / Unfreezes the stand. <br />
+!reset = Resets / Respawns the stand. <br />
+!rejoin = Makes the stand rejoin the same server. <br />
+!leave = Makes the stand leave the game. <br />
+!lowgfx = Enables Low-Graphic mode on the stand to save CPU. <br />
+!drop = Starts dropping cash. <br />
+!wallet = Equips the stand's wallet. <br />
+!left = Brings the stand to the left position. <br />
+!right = Brings the stand to the right position. <br />
+!stop = Stops any loops. <br />
 
 --//----------------------- [ Combat ] -----------------------\\--
 
