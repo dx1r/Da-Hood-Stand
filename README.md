@@ -53,4 +53,4 @@ Ora! = Ghost punches in front of the owner.
 !tp uphill = Teleports uphill.
 !tp downhill = Teleports downhill.
 !tp sewer = Teleports in the sewers.
-!tp school = Teleports to school.
+!tp school = Teleports to school
