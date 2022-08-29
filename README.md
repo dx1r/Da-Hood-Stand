@@ -1,8 +1,4 @@
 # Command List
-
-█▀▀ █▀█ █▀▄▀█ █▀▄▀█ ▄▀█ █▄░█ █▀▄ █▀ <br />
-█▄▄ █▄█ █░▀░█ █░▀░█ █▀█ █░▀█ █▄▀ ▄█
-
 --/-------------------- [ Stand Actions ] --------------------\\--
 
 !summon / Star Platinum! = Summons the stand.  <br />
