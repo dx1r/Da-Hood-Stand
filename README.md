@@ -1,7 +1,7 @@
 # Da-Hood
 none of those scripts are fully mine btw i may have customized them but yk like
 
-█▀▀ █▀█ █▀▄▀█ █▀▄▀█ ▄▀█ █▄░█ █▀▄ █▀
+█▀▀ █▀█ █▀▄▀█ █▀▄▀█ ▄▀█ █▄░█ █▀▄ █▀ <br />
 █▄▄ █▄█ █░▀░█ █░▀░█ █▀█ █░▀█ █▄▀ ▄█
 
 --//-------------------- [ Stand Actions ] --------------------\\--
@@ -22,35 +22,35 @@ none of those scripts are fully mine btw i may have customized them but yk like
 
 --//----------------------- [ Combat ] -----------------------\\--
 
-!save = Saves the owner when he is knocked.
-Ora! = Ghost punches in front of the owner.
-!copy = Mimics the owners movements (Heavy Punch, Block)
-!lightcopy = Mimics the owners movements (Light Punch, Block)
-!aura = Kills everyone nearby (Heavy Punch)
-!lightaura = Kills everyone nearby (Light Punch)
-!barrage = Teleports in front of owner and spams light punches.
-!killaura = Teleports under owner and spams light punches.
-!multi = Circles around owner while spamming heavy punch.
+!save = Saves the owner when he is knocked. <br />
+Ora! = Ghost punches in front of the owner. <br />
+!copy = Mimics the owners movements (Heavy Punch, Block) <br />
+!lightcopy = Mimics the owners movements (Light Punch, Block) <br />
+!aura = Kills everyone nearby (Heavy Punch) <br />
+!lightaura = Kills everyone nearby (Light Punch) <br />
+!barrage = Teleports in front of owner and spams light punches. <br />
+!killaura = Teleports under owner and spams light punches. <br />
+!multi = Circles around owner while spamming heavy punch. <br />
 
 --//-------------------- [ Target Commands ] --------------------\\--
 
-!kill [Username / Display Name] = Loop kills the desired person.
-!knockout [Username / Display Name] = Loop knocks but doesn't kill the person.
-!jail [Username / Display Name] = Puts the person in a jail cell.
-!adminjail [Username / Display Name] = not yet added mb
-!sky [Username / Display Name] = not yet added mb
-!trap [Username / Display Name] = Puts the person in the sewer trap.
-!banish [Username / Display Name] = Throws the person in the void.
-!bring [Username / Display Name] = Brings the person to the owner.
-!goto [Username / Display Name] = Brings the owner to the person.
+!kill [Username / Display Name] = Loop kills the desired person. <br />
+!knockout [Username / Display Name] = Loop knocks but doesn't kill the person. <br />
+!jail [Username / Display Name] = Puts the person in a jail cell. <br />
+!adminjail [Username / Display Name] = not yet added mb <br />
+!sky [Username / Display Name] = not yet added mb <br />
+!trap [Username / Display Name] = Puts the person in the sewer trap. <br />
+!banish [Username / Display Name] = Throws the person in the void. <br />
+!bring [Username / Display Name] = Brings the person to the owner. <br />
+!goto [Username / Display Name] = Brings the owner to the person. <br />
 
 --//----------------------- [ Teleports ] -----------------------\\--
 
-!tp bank = Telports to bank.
-!tp casino = Teleports to casino.
-!tp guns = Teleports to the gun shop.
-!tp admin = Teleports to the admin base.
-!tp uphill = Teleports uphill.
-!tp downhill = Teleports downhill.
-!tp sewer = Teleports in the sewers.
-!tp school = Teleports to school.
+!tp bank = Telports to bank. <br />
+!tp casino = Teleports to casino. <br />
+!tp guns = Teleports to the gun shop. <br />
+!tp admin = Teleports to the admin base. <br />
+!tp uphill = Teleports uphill. <br />
+!tp downhill = Teleports downhill. <br />
+!tp sewer = Teleports in the sewers. <br />
+!tp school = Teleports to school. <br />
