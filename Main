@@ -2,8 +2,8 @@ getgenv().Settings = {
     ['Made By JoJo#2494'] = {
         OWNER = "DexAbc", --/ Stand owner username.
         STANDS = {"ReportWontHelp"}, --/ List of your stand accounts (if you have more than one you can add more usernames to the table).
-        FPS = 40, --/ Will control FPS can improve the overall performance on both instances when set to lower.
-        PERFORMANCE = true, --/ If set to true it'll significantly improve your overall FPS if you're struggling with performance.
+        FPS = 60, --/ Will control FPS can improve the overall performance on both instances when set to lower.
+        PERFORMANCE = false, --/ If set to true it'll significantly improve your overall FPS if you're struggling with performance.
         NOCLIP = {SynapseX = false, Offset = -3.05}, --/ Offset will control the height of normal noclip (keep unchanged unless you're using titan with a big character / SynapseX option).
         FACELESS = true, --/ If you want to remove your face.
         TRAILS = true, --/ If you want to remove the white trail when charge attacking.
@@ -40,6 +40,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/DexAbc/Da-Hood/main/S
 !wallet = Equips the stand's wallet.
 !left = Brings the stand to the left position.
 !right = Brings the stand to the right position.
+!ad = Credits me.
 !stop = Stops any loops.
 
 --//----------------------- [ Combat ] -----------------------\\--
@@ -59,9 +60,10 @@ Ora! = Ghost punches in front of the owner.
 !kill [Username / Display Name] = Loop kills the desired person.
 !knockout [Username / Display Name] = Loop knocks but doesn't kill the person.
 !jail [Username / Display Name] = Puts the person in a jail cell.
-!adminjail [Username / Display Name] = not yet added mb
-!sky [Username / Display Name] = not yet added mb
-!trap [Username / Display Name] = Puts the person in the sewer trap.
+!adminjail [Username / Display Name] = Puts the person in the admin jail.
+!skyline [Username / Display Name] = Teleports the person above the map.
+!trap [Username / Display Name] = Traps the person under the lava base.
+!sewertrap [Username / Display Name] = Puts the person in the sewer trap.
 !banish [Username / Display Name] = Throws the person in the void.
 !bring [Username / Display Name] = Brings the person to the owner.
 !goto [Username / Display Name] = Brings the owner to the person.
