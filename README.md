@@ -1,10 +1,6 @@
 # Command List
 
---/-/-/--------------------------------- [ Full Script ]----------------------------------\-\-\
-loadstring(game:HttpGet('https://raw.githubusercontent.com/DexAbc/Da-Hood-Stand/main/Main'))()
---\-\-\-----------------------------------------------------------------------------------/-/-/
-
---/-------------------- [ Stand Actions ] --------------------\\--
+--/-------------------- [ Stand Actions ] --------------------\\--<br />
 !summon / Star Platinum! = Summons the stand.<br />
 !vanish / !unghost = Makes the stand invisible / visible.<br />
 !crew / !uncrew = Joins / Leaves the owners crew (Must be in the group!)<br />
