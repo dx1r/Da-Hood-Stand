@@ -1,6 +1,10 @@
 # Command List
---/-------------------- [ Stand Actions ] --------------------\\--
 
+--/-/-/--------------------------------- [ Full Script ]----------------------------------\-\-\
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DexAbc/Da-Hood-Stand/main/Main'))()
+--\-\-\-----------------------------------------------------------------------------------/-/-/
+
+--/-------------------- [ Stand Actions ] --------------------\\--
 !summon / Star Platinum! = Summons the stand.<br />
 !vanish / !unghost = Makes the stand invisible / visible.<br />
 !crew / !uncrew = Joins / Leaves the owners crew (Must be in the group!)<br />
@@ -13,13 +17,12 @@
 !wallet = Equips the stand's wallet.<br />
 !left = Brings the stand to the left position.<br />
 !right = Brings the stand to the right position.<br />
-!ad = Credits me.<br />
+!info = Credits<br />
 !stop = Stops any loops.<br />
 
 --/----------------------- [ Combat ] -----------------------\\--
-
 !save = Saves the owner when he is knocked.<br />
-Ora! = Ghost punches in front of the owner.<br />
+!punch = Ghost punches in front of the owner.<br />
 !copy = Mimics the owners movements (Heavy Punch, Block)<br />
 !lightcopy = Mimics the owners movements (Light Punch, Block)<br />
 !aura = Kills everyone nearby (Heavy Punch)<br />
@@ -29,7 +32,6 @@ Ora! = Ghost punches in front of the owner.<br />
 !multi = Circles around owner while spamming heavy punch.<br />
 
 --/-------------------- [ Target Commands ] --------------------\\--
-
 !kill [Username / Display Name] = Loop kills the desired person.<br />
 !knockout [Username / Display Name] = Loop knocks but doesn't kill the person.<br />
 !jail [Username / Display Name] = Puts the person in a jail cell.<br />
@@ -37,12 +39,23 @@ Ora! = Ghost punches in front of the owner.<br />
 !skyline [Username / Display Name] = Teleports the person above the map.<br />
 !trap [Username / Display Name] = Traps the person under the lava base.<br />
 !sewertrap [Username / Display Name] = Puts the person in the sewer trap.<br />
+!bankvault [Username / Display Name] = Puts the person inside the bank vault.<br />
+!void [Username / Display Name] = Puts the person in a very dark place.<br />
 !banish [Username / Display Name] = Throws the person in the void.<br />
 !bring [Username / Display Name] = Brings the person to the owner.<br />
 !goto [Username / Display Name] = Brings the owner to the person.<br />
 
---/----------------------- [ Teleports ] -----------------------\\--
+--/----------------- [ Target Teleport Commands ] -----------------\\--
+!bank [Username / Display Name] = Teleports the person to bank.<br />
+!casino [Username / Display Name] = Teleports the person to casino.<br />
+!admin [Username / Display Name] = Teleports the person to the admin base.<br />
+!guns [Username / Display Name] = Teleports the person to the gun shop.<br />
+!uphill [Username / Display Name] = Teleports the person uphill.<br />
+!downhill [Username / Display Name] = Teleports the person downhill.<br />
+!sewer [Username / Display Name] = Teleports the person to sewers.<br />
+!school [Username / Display Name] = Teleports the person to school.<br />
 
+--/----------------------- [ Teleports ] -----------------------\\--
 !tp bank = Telports to bank.<br />
 !tp casino = Teleports to casino.<br />
 !tp guns = Teleports to the gun shop.<br />
