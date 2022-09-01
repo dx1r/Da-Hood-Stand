@@ -10,7 +10,7 @@
 !leave = Makes the stand leave the game.<br />
 !lowgfx = Enables Low-Graphic mode on the stand to save CPU.<br />
 !drop = Starts dropping cash.<br />
-!wallet = Equips the stand's wallet.
+!wallet = Equips the stand's wallet.<br />
 !left = Brings the stand to the left position.<br />
 !right = Brings the stand to the right position.<br />
 !ad = Credits me.<br />
