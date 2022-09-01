@@ -16,7 +16,7 @@
 !info = Credits<br />
 !stop = Stops any loops.<br />
 
---/----------------------- [ Combat ] -----------------------\\--
+--/----------------------- [ Combat ] -----------------------\\--<br />
 !save = Saves the owner when he is knocked.<br />
 !punch = Ghost punches in front of the owner.<br />
 !copy = Mimics the owners movements (Heavy Punch, Block)<br />
@@ -27,7 +27,7 @@
 !killaura = Teleports under owner and spams light punches.<br />
 !multi = Circles around owner while spamming heavy punch.<br />
 
---/-------------------- [ Target Commands ] --------------------\\--
+--/-------------------- [ Target Commands ] --------------------\\--<br />
 !kill [Username / Display Name] = Loop kills the desired person.<br />
 !knockout [Username / Display Name] = Loop knocks but doesn't kill the person.<br />
 !jail [Username / Display Name] = Puts the person in a jail cell.<br />
@@ -41,7 +41,7 @@
 !bring [Username / Display Name] = Brings the person to the owner.<br />
 !goto [Username / Display Name] = Brings the owner to the person.<br />
 
---/----------------- [ Target Teleport Commands ] -----------------\\--
+--/----------------- [ Target Teleport Commands ] -----------------\\--<br />
 !bank [Username / Display Name] = Teleports the person to bank.<br />
 !casino [Username / Display Name] = Teleports the person to casino.<br />
 !admin [Username / Display Name] = Teleports the person to the admin base.<br />
@@ -51,7 +51,7 @@
 !sewer [Username / Display Name] = Teleports the person to sewers.<br />
 !school [Username / Display Name] = Teleports the person to school.<br />
 
---/----------------------- [ Teleports ] -----------------------\\--
+--/----------------------- [ Teleports ] -----------------------\\--<br />
 !tp bank = Telports to bank.<br />
 !tp casino = Teleports to casino.<br />
 !tp guns = Teleports to the gun shop.<br />
