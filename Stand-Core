@@ -115,6 +115,5 @@ Create("ay star platinum", function() Chat("im about to get really racist right 
 
 --//---------------------- [ Credits ] ----------------------\\--
 Create("!info", function() wait(1) Chat("Made By DexAbc") end)
-Create("!info", function() wait(1.1) Chat("DEX 6755") end)
-Create("!info", function() wait(1.2) Chat("15620309 (Group ID)") end)
+Create("!info", function() wait(2) Chat("DEX 6755") end)
 --\\----------------------------------------------------------//--
