@@ -19,7 +19,7 @@ getgenv().Settings = {
 }
 
 --//--------------------------------------------------------------------------------------------/-/-/ 
-loadstring(game:HttpGet('https://github.com/DexAbc/Da-Hood-Stand/blob/main/Stand-Core.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DexAbc/Da-Hood-Stand/main/Stand-Core.lua'))()
 --\\--------------------------------------------------------------------------------------------\-\-\
 
 --[[
